@@ -1,0 +1,22 @@
+{
+  "name": "google-images-flashdata",
+  "displayName": "Google Images — FlashData",
+  "version": "0.1.1",
+  "description": "Find Google Images results with image URLs, dimensions and original source pages. Build an attributable image research inventory. Uses the paid FlashData API.",
+  "author": {
+    "name": "FlashData",
+    "email": "support@flashdata.dev"
+  },
+  "homepage": "https://flashdata.dev/docs/sources/google_images?utm_source=cursor-directory&utm_medium=integration&utm_campaign=intent_gtm_2026q4&utm_content=google_images-task",
+  "repository": "https://github.com/rocosen/google-images-cursor",
+  "license": "MIT",
+  "keywords": [
+    "google-images",
+    "image-search",
+    "mcp",
+    "model-context-protocol",
+    "flashdata",
+    "cursor"
+  ],
+  "logo": "assets/logo.svg"
+}
